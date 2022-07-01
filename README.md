@@ -1,7 +1,7 @@
 # ![Logo](https://userrounakk.github.io/a_drop_for_life/images/logo.png) 
 
 
-A drop forl ife is a blood donation site templete. It includes frontend templete made using html and scss and basic js for form.
+A drop for life is a blood donation site templete. It includes frontend templete made using html and scss and basic js for form.
 
 
 
