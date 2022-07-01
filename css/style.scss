@@ -15,7 +15,7 @@ body {
 .banner {
     width: 100vw;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4)), url(/images/background.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4)), url(../images/background.jpg);
     background-size: cover;
     background-position: cover;
 }
@@ -403,7 +403,7 @@ footer {
 }
 
 .reasons-to-donate {
-    background: url(/images/homeBanner.png) no-repeat center;
+    background: url(../images/homeBanner.png) no-repeat center;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -539,7 +539,7 @@ footer {
     width: 100%;
     height: 80vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4)),
-        url(/images/background.jpg);
+        url(../images/background.jpg);
     background-size: cover;
     background-position: cover;
 }
